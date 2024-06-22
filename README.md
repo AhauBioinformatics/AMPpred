@@ -31,7 +31,7 @@
         test_in_LM_pred.ipynb # Testing on LM_pred
 ```
 # Methods for assessments
-The environments used in this study are available on \dependencies.<br>
+The environments used in this study are available on .\utils\xx\requirements.txt.<br>
 | |Pretraining|Parameter|Classification|Repository|
 |------------------|----------------------|--------------------|-----------------|------------------|
 |**Bert-Protein**|UniProt|12 layers<br>12 heads|FFN|https://github.com/BioSequenceAnalysis/Bert-Protein|
