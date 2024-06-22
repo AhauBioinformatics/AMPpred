@@ -79,7 +79,7 @@ We collected an independent test dataset based on multiple different AMP databas
 Positive samples for independent test set were collected from different comprehensive AMP databases, including APD, CAMP, dbAMP, DRAMP, YADAMP, ADAPTABLE and AMPfun. Negative samples were collected from UniProt.
 ![image](https://github.com/WanlingGao/AMPpred-BERT-assessment/blob/main/img/Collection%20process%20for%20the%20independent%20test%20dataset.PNG)
 
-The corresponding environment configuration file is provided in the project folder
+
 ### Testing on Bert-Protein
 ```python
 # ljy_predict_AMP.py
